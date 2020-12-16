@@ -1,0 +1,46 @@
+{
+	"playlistName": "SparkyGG02 Silver routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Aiming long slow invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Invincible 2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "gp 2 invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "gp 1 invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall5targets_pasu slow",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce 180T easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "patTargetSwitch",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

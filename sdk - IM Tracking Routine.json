@@ -1,0 +1,42 @@
+{
+	"playlistName": "sdk - IM Tracking Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Gauntlet V2",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Close Fast Strafes Easy Thin Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Close Fast Strafes Easy Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Ground Plaza Thin v2",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Ground Plaza NO UFO",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Popcorn Goated Tracking Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air no UFO no SKYBOTS Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air no UFO no SKYBOTS",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

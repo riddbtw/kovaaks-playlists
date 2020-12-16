@@ -1,0 +1,30 @@
+{
+	"playlistName": "sdk - Expert Tracking Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Fortnite Glider 360 Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Popcorn Goated Tracking Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Oblique Tracking small no mag",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1wall5targets pasu track invincible small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air UFO 10x Hard",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Thin Aiming Long Invincible",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

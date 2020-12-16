@@ -1,0 +1,30 @@
+{
+	"playlistName": "VOLTAIC OPEN BENCHMARKS SWITCHING",
+	"scenarioList": [
+		{
+			"scenarioName": "patTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180T Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "psalmTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot TS Voltaic",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

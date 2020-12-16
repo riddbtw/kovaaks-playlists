@@ -1,0 +1,50 @@
+{
+	"playlistName": "sdk react",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Aiming Long Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air UFO 10x Hard",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Thin Aiming Long Invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air UFO 10x Hard",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Ground Plaza",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "SYW (Smooth Your Wrist) FIXED Extra thin",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "SYW (Smooth Your Wrist) FIXED Extra thin",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Ground Plaza",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Midrange Fast Strafes Invincible",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}

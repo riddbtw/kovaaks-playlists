@@ -1,0 +1,30 @@
+{
+	"playlistName": "VOLTAIC OPEN BENCHMARKS SWITCHING EASY",
+	"scenarioList": [
+		{
+			"scenarioName": "patTS Voltaic Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "B180T Voltaic Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "voxTS Voltaic Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "kinTS Voltaic Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "psalmTS Voltaic Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smoothbot TS Voltaic Easy",
+			"playCount": 3
+		}
+	],
+	"isFavorite": true
+}

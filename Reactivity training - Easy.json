@@ -1,0 +1,18 @@
+{
+	"playlistName": "Reactivity training - Easy",
+	"scenarioList": [
+		{
+			"scenarioName": "Close Fast Strafes Easy Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "air nuns easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Vertical Fast Strafes Easy",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

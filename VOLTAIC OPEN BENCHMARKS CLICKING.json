@@ -1,0 +1,26 @@
+{
+	"playlistName": "VOLTAIC OPEN BENCHMARKS CLICKING",
+	"scenarioList": [
+		{
+			"scenarioName": "Pasu Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180 Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww3t Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

@@ -1,0 +1,26 @@
+{
+	"playlistName": "sparky - switch",
+	"scenarioList": [
+		{
+			"scenarioName": "patTS NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "devTS Goated NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

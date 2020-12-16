@@ -1,0 +1,54 @@
+{
+	"playlistName": "grandmaster fundamental target switch routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Bounce 360 Tracking Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "devTargetSwitch Goated Goated",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTargetSwitch Goated",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTargetSwitch 360 Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTargetSwitch Goated 3bot",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Track",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Floating Heads 50% HP 400%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Target Switching 360 Static Thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Vertical Switching small lg",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "KinTs 360 NR Varied",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w4ts",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

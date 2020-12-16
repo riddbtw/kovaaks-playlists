@@ -1,0 +1,34 @@
+{
+	"playlistName": "sdk - Expert Movement Aiming Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Air Angelic Dodge",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "patTargetClick Dodge Smaller",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "chrz uneven ground dodge",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Sparky Small (good version)",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Auto Balanced Bunny Dodge",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

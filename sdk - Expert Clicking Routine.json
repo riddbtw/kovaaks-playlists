@@ -1,0 +1,30 @@
+{
+	"playlistName": "sdk - Expert Clicking Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Wide Wall 10 Extra Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400%",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Popcorn Sparky",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Reflex Flick - Hard",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Vertical Hand Warmup small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1wall5targets_pasu_small",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

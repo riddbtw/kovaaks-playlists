@@ -1,0 +1,18 @@
+{
+	"playlistName": "rA - Static",
+	"scenarioList": [
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "ww6t reload",
+			"playCount": 3
+		}
+	],
+	"isFavorite": true
+}
