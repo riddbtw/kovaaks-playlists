@@ -3,7 +3,7 @@
 	"scenarioList": [
 		{
 			"scenarioName": "patTS Voltaic",
-			"playCount": 1
+			"playCount": 10
 		},
 		{
 			"scenarioName": "B180T Voltaic",
@@ -11,7 +11,7 @@
 		},
 		{
 			"scenarioName": "voxTS Voltaic",
-			"playCount": 1
+			"playCount": 10
 		},
 		{
 			"scenarioName": "kinTS Voltaic",

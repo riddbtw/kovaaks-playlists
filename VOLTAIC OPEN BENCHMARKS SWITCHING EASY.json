@@ -3,11 +3,11 @@
 	"scenarioList": [
 		{
 			"scenarioName": "patTS Voltaic Easy",
-			"playCount": 3
+			"playCount": 10
 		},
 		{
 			"scenarioName": "B180T Voltaic Easy",
-			"playCount": 3
+			"playCount": 10
 		},
 		{
 			"scenarioName": "voxTS Voltaic Easy",
@@ -23,7 +23,7 @@
 		},
 		{
 			"scenarioName": "Smoothbot TS Voltaic Easy",
-			"playCount": 3
+			"playCount": 10
 		}
 	],
 	"isFavorite": true
