@@ -1,0 +1,38 @@
+{
+	"playlistName": "pauer movement",
+	"scenarioList": [
+		{
+			"scenarioName": "Circle Strafes Long Varied Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Circle Strafes Mid Varied Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Circle Strafes Long Varied Medium",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Circle Strafes Mid Varied Medium",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Cycle Strafes Mid Varied Medium",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Cycle Strafes Mid Varied Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Cycle Strafes Long Varied Medium",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Cycle Strafes Long Varied Easy",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}
