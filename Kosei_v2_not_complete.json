@@ -1,12 +1,12 @@
 {
-	"playlistName": "Kosei v2 (not complete)",
+	"playlistName": "Kosei v2 (incomplete)",
 	"scenarioList": [
 		{
-			"scenarioName": "1w3ts",
-			"playCount": 5
+			"scenarioName": "Air Angelic 3478 Small",
+			"playCount": 3
 		},
 		{
-			"scenarioName": "Air Angelic 3478",
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Small",
 			"playCount": 5
 		},
 		{
@@ -30,17 +30,17 @@
 			"playCount": 5
 		},
 		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
 			"scenarioName": "FuglaaXYZ Voltaic small",
 			"playCount": 5
 		},
 		{
 			"scenarioName": "Fortnite glider 360 invincible LG",
 			"playCount": 5
-		},
-		{
-			"scenarioName": "Wide Wall 3 Targets",
-			"playCount": 5
 		}
 	],
-	"isFavorite": false
+	"isFavorite": true
 }
