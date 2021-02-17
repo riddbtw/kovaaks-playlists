@@ -1,0 +1,54 @@
+{
+	"playlistName": "PureSmoothness updated",
+	"scenarioList": [
+		{
+			"scenarioName": "Pasu Track Invincible v2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "vertical smoothness training popcorn small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic XSmall",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Centering II 180 no strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic Smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Controlsphere",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Skeet Tracking Goated Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control Hard",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Voltaic AC 9 - Smoothsphere",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small Invincible Fixed",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "XY Smooth training",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

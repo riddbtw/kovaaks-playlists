@@ -1,0 +1,38 @@
+{
+	"playlistName": "PureTarget-Switching 1by1",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Sparky Comp 48 - voxTargetswitch 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Shorter TTK",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "360 Static TS",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch small NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTargetSwitch 360",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Jumbo",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

@@ -1,0 +1,42 @@
+{
+	"playlistName": "Fallen Static #2 (traditional, precision + pokeball)",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Extra Small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small Wide",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2tes",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w4tes",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "wide wall 2targets small nodelay",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "ww2t voltaic 50% smaller",
+			"playCount": 8
+		},
+		{
+			"scenarioName": "1w2tes reload",
+			"playCount": 8
+		},
+		{
+			"scenarioName": "1w2ts reload 25% smaller",
+			"playCount": 9
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 8
+		}
+	],
+	"isFavorite": true
+}

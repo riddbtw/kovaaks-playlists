@@ -1,0 +1,70 @@
+{
+	"playlistName": "Fallen Evasive Switch (play 1x)",
+	"scenarioList": [
+		{
+			"scenarioName": "Glider GOATED Switch Medium",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 360 Tracking Small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small rAim",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "B180T Voltaic",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "B180T Voltaic Regen",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Track Smaller rAim",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Sparky Comp 66 - Pasu Track v2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "kinTS Voltaic mini",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "kinTS NR Goated Varied",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "kinTS NR",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "KinTS NR Smooth",
+			"playCount": 3
+		}
+	],
+	"isFavorite": true
+}
