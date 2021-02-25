@@ -1,6 +1,13 @@
 # kovaaks-plos
 Collection of playlists for Kovaaks
 
+# how to use these playlists
+Right-click -> Save As...
+Drop the JSON or PLO file(s) into your Kovaaks Steam folder
+\path\to\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists
+
+Next time you start up Kovaaks you will see them available in your Local Playlists
+
 # recommended playlists
 
 ## smoothness
