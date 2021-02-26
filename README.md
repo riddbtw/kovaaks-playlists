@@ -27,7 +27,7 @@ Next time you start up Kovaaks you will see them available in your Local Playlis
 * [Pasu 1b1](https://github.com/riddbtw/kovaaks-plos/blob/main/pasu_1by1.json) - not many moving dots specific routines out there, this is the best I've found
 
 ## reactivity
-* [Zeeq track](https://github.com/riddbtw/kovaaks-plos/blob/main/Zeeq%20-%20Tracking.json) - older with some outdated scens but still great.  Can swap out Air 10x ufo hard with Air UFO hard small invincible or something shorter but equally difficult
+* [Zeeq track](https://github.com/riddbtw/kovaaks-plos/blob/main/Zeeq%20-%20Tracking.json) or [sdk react](https://github.com/riddbtw/kovaaks-plos/blob/main/sdk%20react.json) - older with some outdated scens but still great.  Can swap out Air 10x ufo hard with Air UFO hard small invincible or something shorter but equally difficult
 * [Theo react](https://github.com/riddbtw/kovaaks-plos/blob/main/Theo%20-%20Reactivity.json) - from [rA discord](discord.gg/raim)
 * [Torje react](https://github.com/riddbtw/kovaaks-plos/blob/main/Torje_Reactivity_conditioning_v2.json) - from [WA Playlist comp](http://bit.ly/waplo)
 
