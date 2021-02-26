@@ -18,6 +18,7 @@ Next time you start up Kovaaks you will see them available in your Local Playlis
 ## speed
 * [Unans speed/precision](https://github.com/riddbtw/kovaaks-plos/blob/main/Speed_and_flicking_accuracy.json) - good for static/ts
 * [Unans speed](https://github.com/riddbtw/kovaaks-plos/blob/main/Just%20move%20your%20hand%20faster.json) - good for static/ts
+* [Pure Tswitch1b1](https://github.com/riddbtw/kovaaks-plos/blob/main/PureTarget-Switching_1by1.json) - tswitch
 
 ## precision
 * [Huddled pokeball](https://github.com/riddbtw/kovaaks-plos/blob/main/Huddled_Pokeball.json) - pokeballs are great for precision and flick accuracy
