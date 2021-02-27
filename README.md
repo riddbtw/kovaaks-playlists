@@ -2,9 +2,10 @@
 Collection of playlists for Kovaaks
 
 # how to use these playlists
-Right-click -> Save As...
-Drop the JSON or PLO file(s) into your Kovaaks Steam folder
-\path\to\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists
+Grab the latest release from the [Releases page](https://github.com/riddbtw/kovaaks-plos/releases) and unzip the files
+Copy the JSON files to your Kovaaks playlist directory:
+
+**\path\to\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists**
 
 Next time you start up Kovaaks you will see them available in your Local Playlists
 
