@@ -36,5 +36,5 @@ Collection of playlists for Kovaaks
 * [Pauer](https://github.com/riddbtw/kovaaks-plos/blob/main/pauer%20movement.json) - newer movement scens that take advantage of sound cues to tell you when to change direction while strafing, better for improving your movement aim
 
 ## complete
-* [Kosei v2](https://github.com/riddbtw/kovaaks-plos/blob/main/Kosei_v2_not_complete.json) - top aimer, from [rA discord](discord.gg/raim)
+* [Kosei v2](https://github.com/riddbtw/kovaaks-plos/blob/main/Kosei_v2_not_complete.json) - from [rA discord](discord.gg/raim)
 * Fallen [1](https://github.com/riddbtw/kovaaks-plos/blob/main/Fallen%20Complete%20%231%20(play%201x).json) [2](https://github.com/riddbtw/kovaaks-plos/blob/main/Fallen%20Complete%20%232%20(play%201x).json) [3](https://github.com/riddbtw/kovaaks-plos/blob/main/Fallen%20Complete%20%233%20(play%201x).json) - great overall scens built logically in aim groups
