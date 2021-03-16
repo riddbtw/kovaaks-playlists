@@ -1,0 +1,54 @@
+{
+	"playlistName": "EerieCold - Static",
+	"scenarioList": [
+		{
+			"scenarioName": "fuglaaPressure",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww4t Varied",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small 60s",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4tes Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Reflex Poke-Micro++ Regenerating Goated",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
