@@ -1,0 +1,18 @@
+{
+	"playlistName": "Speed training - Alternate",
+	"scenarioList": [
+		{
+			"scenarioName": "pattargetswitch 90 no mag",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "bounce 90t",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

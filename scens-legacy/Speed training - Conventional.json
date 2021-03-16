@@ -1,0 +1,14 @@
+{
+	"playlistName": "Speed training - Conventional",
+	"scenarioList": [
+		{
+			"scenarioName": "Tile Frenzy - Standard 01 Relax",
+			"playCount": 15
+		},
+		{
+			"scenarioName": "Tile Frenzy Flick",
+			"playCount": 15
+		}
+	],
+	"isFavorite": false
+}

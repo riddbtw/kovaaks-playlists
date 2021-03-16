@@ -1,0 +1,46 @@
+{
+	"playlistName": "sdk - Advanced Movement Aiming Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Air Dodge",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu Dodge Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Close FS Easy Dodge",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "XY Tracking Dodge Hard",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Manwing Strafe Gallery",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Anti-Mirror FS Gallery",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Auto Balanced Bunny Dodge",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "[MCA-9] Repeating First Shot",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

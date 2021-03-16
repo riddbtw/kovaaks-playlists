@@ -1,0 +1,46 @@
+{
+	"playlistName": "sdk - Advanced Clicking Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "pasu small reload",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Popcorn Goated",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1wall 6targets extra small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce 180 Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Wide Wall 6Targets Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Reflex Flick - Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Reflex Flick - Hard",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Circle Tiles",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Close Fast Strafes Shotgun Invincible",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Vertical Hand Warmup",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

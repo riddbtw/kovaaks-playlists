@@ -1,0 +1,46 @@
+{
+	"playlistName": "Fallen Smoothness #2 (110-130% sens)",
+	"scenarioList": [
+		{
+			"scenarioName": "PGTI Voltaic 1",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothsphere",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "PGTI Voltaic 2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smoothbot Unvincible Small Goated",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "PGTI Voltaic 3",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Pauer",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "PGTI Voltaic 4",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 6
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated",
+			"playCount": 6
+		}
+	],
+	"isFavorite": true
+}

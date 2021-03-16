@@ -1,0 +1,30 @@
+{
+	"playlistName": "sdk - Expert Target Switching Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "Sphere Frenzy 360 Strafing 400Prct Track Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Floating Heads 50% HP 400%",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTargetSwitch Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Vertical Switching small lg",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Skeet Tracking Goated Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1wall5targets_pasu_small tracking",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

@@ -1,0 +1,246 @@
+{
+	"playlistName": "Fallen Complete #1 (play 1x)",
+	"scenarioList": [
+		{
+			"scenarioName": "B180TI Small Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180TI Extra Small Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Smooth small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Smooth extra extra small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Smooth extra small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 4 Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 3478",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic Invincible 3",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic Invincible 4",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Invincible 6 Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall5targets pasu track invincible small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothsphere",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Controlsphere",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Pauer",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Controlsphere TS",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180T Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Sparky Comp 66 - Pasu Track v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "KinTS NR Smooth",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Floating Heads 50% HP 1600% extra health small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Floating Heads 50% HP 1600% extra health",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "pasu smaller reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "pasu small reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Sparky Smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180 Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Sparky 3bot smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS v2 30% Smaller Click",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "KinTargetSwitch Click",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400% Larger",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VoxTargetSwitch Click Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VoxTargetSwitch Click Heads",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6ts reload v2 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww6ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww4ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww4t reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4tes Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts 30% larger",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3tes Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3ts 30% larger",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts medium reload 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts medium reload",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

@@ -1,0 +1,30 @@
+{
+	"playlistName": "Valorant ",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Gauntlet",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall2targets_smallflicks 60s",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1wall 6targets small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTargetSwitch Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1wall5targets_pasu",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Reflex Flick - Fair",
+			"playCount": 2
+		}
+	],
+	"isFavorite": false
+}

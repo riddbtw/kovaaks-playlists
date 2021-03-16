@@ -1,0 +1,30 @@
+{
+	"playlistName": "VOLTAIC OPEN BENCHMARKS CLICKING EASY",
+	"scenarioList": [
+		{
+			"scenarioName": "Pasu Voltaic Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "B180 Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Popcorn Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww3t Voltaic",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "6 Sphere Hipfire Voltaic",
+			"playCount": 5
+		}
+	],
+	"isFavorite": true
+}

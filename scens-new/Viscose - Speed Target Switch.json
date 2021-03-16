@@ -1,0 +1,34 @@
+{
+	"playlistName": "Viscose - Speed Target Switch",
+	"scenarioList": [
+		{
+			"scenarioName": "Target Switching 360 Static - More bots",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "insTS",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTargetSwitch easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Jumbo Tile Frenzy Flick 180",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "patTargetSwitch Small No Reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "patTargetSwitch 360",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "patTS NR",
+			"playCount": 4
+		}
+	],
+	"isFavorite": false
+}

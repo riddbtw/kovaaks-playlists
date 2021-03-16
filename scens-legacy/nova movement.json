@@ -1,0 +1,26 @@
+{
+	"playlistName": "nova movement",
+	"scenarioList": [
+		{
+			"scenarioName": "Air dodge small invincible 4",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu Dodge Small Easy",
+			"playCount": 7
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Sparky Small (good version)",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "lgc3 Reborn Thin",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pattargetswitch Dodge 360 small",
+			"playCount": 10
+		}
+	],
+	"isFavorite": false
+}

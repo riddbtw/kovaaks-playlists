@@ -1,0 +1,170 @@
+{
+	"playlistName": "Fallen Static #1 (1by1, complete static + pokeball)",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small Wide",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w4ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Auto Frenzy 1w2tes smallflicks",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Auto 1w2ts smallflicks",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 5 Sphere Hipfire Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 5 Sphere Hipfire Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww2ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts reload 25% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts medium reload 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts medium reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2tes smallflicks",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts reload smallflicks 20% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts reload smallflicks",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Valorant Microshot Speed Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Reflex Micro++ flick reload small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Extra Small Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "6 Sphere Hipfire Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Small Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts medium reload 30% larger",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts 30% larger",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww2t reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Reflex Flick - Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Reflex Flick - Fair",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww6t reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2t smallflicks 60s",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "reflex micro++ flick reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaaPressure",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pressure Aiming 7 Shortened",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall2targets TE",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall6targets TE",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Microshot Speed v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Microshot Small Speed 2 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall9000targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Jumbo 1wall6targets TE",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Jumbo Tile Frenzy",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

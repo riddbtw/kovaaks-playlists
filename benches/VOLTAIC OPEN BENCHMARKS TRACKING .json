@@ -1,0 +1,30 @@
+{
+	"playlistName": "VOLTAIC OPEN BENCHMARKS TRACKING ",
+	"scenarioList": [
+		{
+			"scenarioName": "Smoothbot Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 4 Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Voltaic",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

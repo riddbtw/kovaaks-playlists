@@ -1,0 +1,50 @@
+{
+	"playlistName": "flick experimental",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6tes Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small Wide",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww6ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6ts reload v2",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}
