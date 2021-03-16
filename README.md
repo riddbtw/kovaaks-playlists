@@ -1,4 +1,4 @@
-# kovaaks-plos
+# kovaaks-playlists
 Collection of playlists for Kovaaks
 
 # how to use these playlists
