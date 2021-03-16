@@ -1,0 +1,18 @@
+{
+	"playlistName": "rA - Smoothness easy",
+	"scenarioList": [
+		{
+			"scenarioName": "PGTI rAim Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smoothbot rAim Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Angelic rAim Easy",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}
