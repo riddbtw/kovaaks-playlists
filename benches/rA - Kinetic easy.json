@@ -1,0 +1,18 @@
+{
+	"playlistName": "rA - Kinetic easy",
+	"scenarioList": [
+		{
+			"scenarioName": "B180 rAim Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pasu rAim Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn rAim Easy",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}

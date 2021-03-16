@@ -1,0 +1,18 @@
+{
+	"playlistName": "rA - Flick TS easy",
+	"scenarioList": [
+		{
+			"scenarioName": "patCircleSwitch NR",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Wide rAim Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "voxTS rAim Easy",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}
