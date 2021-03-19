@@ -1,0 +1,42 @@
+{
+	"playlistName": "dear Valorant Precision + snappy",
+	"scenarioList": [
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Tile Frenzy 180 Strafing 200 Percent Tracking Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Devtargetswitch click 360 small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTargetSwitch small 200%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w3tes Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Thin Aiming Long Invincible 180",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTargetClick Small 1shot",
+			"playCount": 5
+		}
+	],
+	"isFavorite": true
+}
