@@ -6,12 +6,12 @@
 			"playCount": 5
 		},
 		{
-			"scenarioName": "B180 Voltaic",
-			"playCount": 5
+			"scenarioName": "Bounce 180 rAim",
+			"playCount": 1
 		},
 		{
-			"scenarioName": "B180T Voltaic",
-			"playCount": 5
+			"scenarioName": "Bounce 180 Tracking Small",
+			"playCount": 1
 		},
 		{
 			"scenarioName": "Pasu Voltaic",
@@ -50,5 +50,5 @@
 			"playCount": 7
 		}
 	],
-	"isFavorite": true
+	"isFavorite": false
 }
