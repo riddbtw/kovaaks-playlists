@@ -1,5 +1,5 @@
 {
-	"playlistName": "VOLTAIC OPEN BENCHMARKS TRACKING EASY",
+	"playlistName": "Voltaic Tracking Easy Benchmarks",
 	"scenarioList": [
 		{
 			"scenarioName": "Smoothbot Voltaic Easy",
@@ -26,5 +26,5 @@
 			"playCount": 3
 		}
 	],
-	"isFavorite": true
+	"isFavorite": false
 }
