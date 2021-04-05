@@ -1,5 +1,5 @@
 {
-	"playlistName": "VOLTAIC OPEN BENCHMARKS CLICKING EASY",
+	"playlistName": "Voltaic Click Easy Banchmarks",
 	"scenarioList": [
 		{
 			"scenarioName": "Pasu Voltaic Easy",
@@ -26,5 +26,5 @@
 			"playCount": 5
 		}
 	],
-	"isFavorite": true
+	"isFavorite": false
 }

@@ -1,5 +1,5 @@
 {
-	"playlistName": "VOLTAIC OPEN BENCHMARKS SWITCHING",
+	"playlistName": "Voltaic Switching Benchmarks",
 	"scenarioList": [
 		{
 			"scenarioName": "patTS Voltaic",
@@ -26,5 +26,5 @@
 			"playCount": 1
 		}
 	],
-	"isFavorite": true
+	"isFavorite": false
 }
