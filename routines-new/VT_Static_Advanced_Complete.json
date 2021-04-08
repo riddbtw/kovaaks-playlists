@@ -1,0 +1,78 @@
+{
+	"playlistName": "VT Static Advanced Complete",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Auto 1w4t Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4t Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Static Speed Test",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaaPressure",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pressure Aiming 7 Shortened",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww4t Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall2targets_smallflicks 60s",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall 6targets small",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

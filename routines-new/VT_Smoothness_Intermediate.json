@@ -1,0 +1,22 @@
+{
+	"playlistName": "VT Smoothness Intermediate",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Gauntlet",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "B360TI Small Sparky",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "PGTI Curved",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smoothsphere",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}

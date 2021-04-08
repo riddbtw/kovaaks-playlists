@@ -1,0 +1,62 @@
+{
+	"playlistName": "VT Static Easy 1by1",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Auto 1w4t Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4t Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall2targets TE",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w4ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall2targets_smallflicks 60s",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts 30% larger",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall 6targets small",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}
