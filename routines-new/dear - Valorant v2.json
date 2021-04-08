@@ -1,0 +1,42 @@
+{
+	"playlistName": "dear - Valorant v2",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Auto ww4ts",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Tile Frenzy 180 Strafing 200 Percent Tracking Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pole long dodge extra thin",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Devtargetswitch click 360 small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "patTargetSwitch Small No Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fast Pump Flick - Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "dear - Valorant Long",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTargetSwitch 360 Small",
+			"playCount": 5
+		}
+	],
+	"isFavorite": true
+}
