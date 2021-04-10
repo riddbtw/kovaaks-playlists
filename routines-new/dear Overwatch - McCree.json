@@ -1,0 +1,42 @@
+{
+	"playlistName": "dear Overwatch - McCree",
+	"scenarioList": [
+		{
+			"scenarioName": "Air",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Popcorn Voltaic No Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "KinTargetSwitch Click Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Overhead Jumps Click",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Dodge",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small Invincible Fixed",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Ground Plaza Invincible 2 OW Double UFO",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Target Acquisition Flick Medium",
+			"playCount": 5
+		}
+	],
+	"isFavorite": true
+}

@@ -1,0 +1,38 @@
+{
+	"playlistName": "dear Fortnite - Shotgun",
+	"scenarioList": [
+		{
+			"scenarioName": "Jumbo 1wall6targets TE",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTargetShotgun",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1wall6targets flick",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fast Pump Flick",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Target Acquisition Flick Medium",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1wall5targets_pasu Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fortnite Combat Vertical",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "dear - Fortnite Flick",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
