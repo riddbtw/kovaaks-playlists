@@ -1,0 +1,34 @@
+{
+	"playlistName": "truste_static_daily",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Extra Small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "fuglaaPressure",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pressure Aiming 7 Shortened",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "1wall 6targets small",
+			"playCount": 8
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 4
+		}
+	],
+	"isFavorite": false
+}
