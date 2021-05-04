@@ -1,5 +1,5 @@
 {
-	"playlistName": "rA - Smoothness easy",
+	"playlistName": "rA - Precision easy",
 	"scenarioList": [
 		{
 			"scenarioName": "PGTI rAim Easy",
@@ -14,5 +14,5 @@
 			"playCount": 3
 		}
 	],
-	"isFavorite": false
+	"isFavorite": true
 }
