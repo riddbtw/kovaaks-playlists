@@ -1,0 +1,30 @@
+{
+	"playlistName": "APEX",
+	"scenarioList": [
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible - Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invin 30s",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible - Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invin 30s",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

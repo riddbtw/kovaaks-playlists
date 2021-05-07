@@ -1,0 +1,46 @@
+{
+	"playlistName": "rA-beginner",
+	"scenarioList": [
+		{
+			"scenarioName": "Close Long Strafes Invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Midrange Long Strafes Invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 180 Sparky Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "air close long strafes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "air far long strafes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Thin Aiming long slow invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Invincible Always Bounce",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1wall5targets_pasu slow",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "patTargetSwitch easy",
+			"playCount": 2
+		}
+	],
+	"isFavorite": false
+}
