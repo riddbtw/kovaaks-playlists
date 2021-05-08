@@ -1,0 +1,78 @@
+{
+	"playlistName": "OW Hitscan(A-Semi Auto)",
+	"scenarioList": [
+		{
+			"scenarioName": "canTS Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Sparky Small No Mag",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "B180 Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn Voltaic No Reload",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Small Pure",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Dodge Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Dodge",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Small Relax",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Floating Heads 50% HP 1600% small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400%",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small Wide",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Extra Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 3
+		}
+	],
+	"isFavorite": true
+}
