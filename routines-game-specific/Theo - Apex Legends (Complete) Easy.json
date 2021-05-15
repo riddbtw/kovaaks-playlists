@@ -1,0 +1,70 @@
+{
+	"playlistName": "Theo - Apex Legends (Complete) Easy",
+	"scenarioList": [
+		{
+			"scenarioName": "Smoothbot rAim Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "patCircleSwitch NR Static",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 180 Sparky Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1wall5targets_pasu slow",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce CT Dodge Park",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "gp 2 invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Apex MLSI Headshot",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Apex MLS Headshot Click",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "XY Tracking Dodge",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Anti-Mirror LS Gallery",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small 60s",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Long Strafes Thin Invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "devTS Goated Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "B180TI Goated",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}
