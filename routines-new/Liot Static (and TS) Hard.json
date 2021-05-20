@@ -1,0 +1,62 @@
+{
+	"playlistName": "Liot Static (and TS) Hard",
+	"scenarioList": [
+		{
+			"scenarioName": "patCircleSwitch small NR Static",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 3 Targets Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w3ts",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Auto ww6ts",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6ts",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6tes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w6ts reload v2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "devTS Goated NR Static Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "voxTS Static Click Small rAim",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 6 Targets Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Wide rAim",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Wide Wall 6Targets Small reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball 5 Sphere Hipfire Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall6 Flick Small+",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}

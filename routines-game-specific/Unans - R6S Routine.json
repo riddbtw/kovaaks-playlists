@@ -1,0 +1,54 @@
+{
+	"playlistName": "Unans - R6S Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "patCircleSwitch NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch 360",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pole Peeker",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Tamspeed 2bp",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Tamspeed 2bpes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated Smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "vertical smoothness training popcorn",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "gp 1 invincible",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}
