@@ -1,0 +1,70 @@
+{
+	"playlistName": "NXCPOWERSPIKE version 1",
+	"scenarioList": [
+		{
+			"scenarioName": "raspStrafes 360 v2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall6targets TE 180",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall5targets_pasu slow",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "VSS GPAIO thin",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Fortnite glider 360 invincible LG",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall6targets TE 180 small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w6t NQS Raspberry",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Circle Tracking",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "pasu reload smallish",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w4t_pasu Raspberry v1",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Extra Controlsphere",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "VSFSI Raspberry 85%",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Frantic RSII Raspberry 85%",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}
