@@ -12,6 +12,10 @@
 		{
 			"scenarioName": "Popcorn rAim Easy",
 			"playCount": 3
+		},
+		{
+			"scenarioName": "ToonsClick rAim Easy",
+			"playCount": 3
 		}
 	],
 	"isFavorite": false

@@ -1,0 +1,54 @@
+{
+	"playlistName": "Eerie static1 1by1",
+	"scenarioList": [
+		{
+			"scenarioName": "fuglaaPressure",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4tes Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets 30% Smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Small Fixed Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "10 Sphere 30% smaller reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6ts",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}
