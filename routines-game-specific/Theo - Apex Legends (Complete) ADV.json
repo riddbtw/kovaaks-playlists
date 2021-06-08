@@ -2,10 +2,6 @@
 	"playlistName": "Theo - Apex Legends (Complete) ADV",
 	"scenarioList": [
 		{
-			"scenarioName": "Popcorn Sparky 3-hit",
-			"playCount": 2
-		},
-		{
 			"scenarioName": "tamTargetSwitch Control Hard",
 			"playCount": 2
 		},
@@ -87,6 +83,30 @@
 		},
 		{
 			"scenarioName": "patTargetClick Dodge Smaller",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "L180TI Small Sparky",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Leap 180 Reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "SYW (Smooth Your Wrist) FIXED Extra thin 60s",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Anti-Mirror FS Gallery",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Popcorn Goated rAim",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Track Invincible Small V2",
 			"playCount": 2
 		}
 	],

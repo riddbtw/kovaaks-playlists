@@ -2,31 +2,11 @@
 	"playlistName": "Theo - Apex Legends (Complete) Easy",
 	"scenarioList": [
 		{
-			"scenarioName": "Smoothbot rAim Easy",
-			"playCount": 2
-		},
-		{
-			"scenarioName": "patCircleSwitch NR Static",
-			"playCount": 2
-		},
-		{
-			"scenarioName": "Bounce 180 Sparky Easy",
-			"playCount": 2
-		},
-		{
-			"scenarioName": "1wall5targets_pasu slow",
-			"playCount": 2
-		},
-		{
 			"scenarioName": "lgc3 Reborn Varied Easy",
 			"playCount": 1
 		},
 		{
 			"scenarioName": "Bounce CT Dodge Park",
-			"playCount": 2
-		},
-		{
-			"scenarioName": "gp 2 invincible",
 			"playCount": 2
 		},
 		{
@@ -54,15 +34,39 @@
 			"playCount": 2
 		},
 		{
-			"scenarioName": "Close Long Strafes Thin Invincible",
-			"playCount": 2
-		},
-		{
-			"scenarioName": "devTS Goated Easy",
-			"playCount": 2
-		},
-		{
 			"scenarioName": "B180TI Goated",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Fast Strafes Easy Invincible",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Dodge Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "VSS Close-Mid Long",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Popcorn rAim Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 180 Sparky",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1wall5targets_pasu Reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Track Invincible v2",
 			"playCount": 2
 		}
 	],
