@@ -1,0 +1,74 @@
+{
+	"playlistName": "krascsi - tracking1 1by1",
+	"scenarioList": [
+		{
+			"scenarioName": "LDDH Slow",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH V2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH Fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VSFSI Raspberry 65%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VSFSI Raspberry 85%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu track kid adhd fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Flickerbot Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thinbot Plaza Raspberry Invincible v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Control Raspberry ",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Extra Controlsphere",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MSS Insanity Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "CLSI Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MFSI rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Paki Aim Invin Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Revolving Tracking Extra Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Raspberry",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

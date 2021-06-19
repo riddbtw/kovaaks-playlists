@@ -1,0 +1,42 @@
+{
+	"playlistName": "bloop",
+	"scenarioList": [
+		{
+			"scenarioName": "ochClick HS",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w4t_pasu Raspberry v1",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Sparky",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "kinTS v2 30% Smaller Click",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn Voltaic No Reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "psalmTS angelic click",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "VoxTargetSwitch Click Heads",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180 rAim",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Tamspeed 2bpes",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}
