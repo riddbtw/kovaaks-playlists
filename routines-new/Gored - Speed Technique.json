@@ -1,0 +1,50 @@
+{
+	"playlistName": "Gore - Speed Technique",
+	"scenarioList": [
+		{
+			"scenarioName": "patTS Voltaic",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS Voltaic",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS rAim Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "patTS Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "TS",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS kidded",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS Viscose Varied",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "VoxTS Voltaic Jumbo",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS Voltaic Jumbo lowTTK",
+			"playCount": 2
+		}
+	],
+	"isFavorite": false
+}
