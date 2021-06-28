@@ -1,0 +1,38 @@
+{
+	"playlistName": "rA_hard_switching",
+	"scenarioList": [
+		{
+			"scenarioName": "patCircleSwitch NR",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pokeball Wide rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "devTS Goated rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "kinTS rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu Track Smaller rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "ToonsTS rAim",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}

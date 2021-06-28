@@ -1,0 +1,38 @@
+{
+	"playlistName": "rA_hard_tracking",
+	"scenarioList": [
+		{
+			"scenarioName": "PGTI rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smoothbot rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air Angelic",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Controlsphere rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "fuglaaXY Reactive rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air Small 3478 rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "MFSI rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}

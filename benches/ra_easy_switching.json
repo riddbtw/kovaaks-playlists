@@ -1,0 +1,38 @@
+{
+	"playlistName": "rA_easy_switching",
+	"scenarioList": [
+		{
+			"scenarioName": "patCircleSwitch NR",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pokeball Wide rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTS rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "devTS Goated rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "B180T rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "kinTS rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu Track Smaller rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "ToonsTS rAim Easy",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}

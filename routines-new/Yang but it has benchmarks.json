@@ -1,0 +1,902 @@
+{
+	"playlistName": "Yang but it has benchmarks",
+	"scenarioList": [
+		{
+			"scenarioName": "LDDH Slow Fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH Fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH V2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH Fixed 80%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH Fixed 92%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH HS",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "LDDH Fixed Click",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Raspberry V2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Raspberry V3",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Pauer Glider",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Unvincible Small Goated",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "odb MFSI",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Midrange Fast Strafes Invincible Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Midrange Fast Strafes Invincible V2 OW",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Midrange Long Strafes Thin UFO",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Midrange Fast Strafes Invincible Thin V2 OW Eerie",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MFSI rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MFSI v3 Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VSS Smooth Thin Strafes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "CLSI Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close FSEI Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close FSEI Extra Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Long Needle Thin Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 3478 Fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Frantic RSII Raspberry 85%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Frantic Raspberry ",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air III Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "RaspberryXYZ Invincible V2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Goated Tracking",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Gauntlet Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Control Raspberry ",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Gauntlet Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaaPressure",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w2tes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6t_vbr Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6t_vbr_pokeball Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6tes Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3tes Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "wide wall 2targets small nodelay",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww4ts v3",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w3ts",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets 30% Smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall2targets_smallflicks 60s",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Reload Goated OW",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "pasu small reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4t_pasu Raspberry v1",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4t_pasu Raspberry v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 small goated",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Voltaic No Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VoxTargetSwitch Click Heads",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400% FIXED",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Jumbo",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Static",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Voltaic mini",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Viscose Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "pattargetswitch static no reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch small NR Static",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch small NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch 90 Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS Voltaic mini",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "psalmTS angelic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Skeet Tracking Goated Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaab180t",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "SupraLGC3",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Stralroom FS Dodge Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Distance FS Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic very small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu track kid adhd fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Thin OW",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall5targets_pasu Reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww6t reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6ts reload v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air no UFO no SKYBOTS",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Sparky V3",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Goated Tracking Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Gauntlet V2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Invincible v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTS NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "devTS Goated NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Dodge Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTargetSwitch Dodge 360 v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180 Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww3t Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "6 Sphere Hipfire Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 4 Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTS Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "psalmTS Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180T Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot TS Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180 Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww3t Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "6 Sphere Hipfire Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 4 Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "psalmTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180T Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot TS Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6t NQS Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180 rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ToonsClick rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Controlsphere rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaaXY Reactive rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air 3478 rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MFSI rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Wide rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "devTS Goated rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180T rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Smaller rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ToonsTS rAim Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1w6t NQS Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Reload Goated",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Popcorn Goated rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ToonsClick rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Controlsphere rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaaXY Reactive rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Small 3478 rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MFSI rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch NR",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Wide rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "devTS Goated rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Smaller rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ToonsTS rAim",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "RaspStrafesCata Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "hopTS Raspberry GOATED",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ballsheet 3D",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall 1target",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "1wall2targets TE",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VSFSI Raspberry 85%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "MSS Insanity Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Invincible 2 OW Double UFO",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Paki Aim Invin Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Extra Controlsphere",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Extra SmoothSphere",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B180TI Extra Small UFO",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Extra Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Cooler TAF",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Reflex Poke-Micro++ Regenerating Goated",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Plaza High Ground Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Range LG Duel",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pressure Aiming 7 Shortened",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Fast Strafes Invincible ",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Overhead Jumps HARD",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 4 Voltaic Smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic Invincible 8 Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Flickerbot Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "CFSRI Raspberry 85%",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Air Angelic 3478 Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "XY Tracking Dodge Hard",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

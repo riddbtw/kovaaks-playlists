@@ -1,0 +1,38 @@
+{
+	"playlistName": "rA_easy_tracking",
+	"scenarioList": [
+		{
+			"scenarioName": "PGTI rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smoothbot rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air Angelic rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Controlsphere rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "fuglaaXY Reactive rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air 3478 rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "MFSI rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry Easy",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}

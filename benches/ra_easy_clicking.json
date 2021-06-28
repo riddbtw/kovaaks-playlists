@@ -1,0 +1,38 @@
+{
+	"playlistName": "rA_easy_clicking",
+	"scenarioList": [
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Wide Wall 3 Target",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1w6t NQS Raspberry",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "B180 rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Popcorn rAim Easy",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "ToonsClick rAim Easy",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}

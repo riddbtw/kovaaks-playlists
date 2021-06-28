@@ -1,0 +1,382 @@
+{
+	"playlistName": "Yin",
+	"scenarioList": [
+		{
+			"scenarioName": "Revolving Tracking Thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Revolving Tracking Strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Revolving Tracking Bounce",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Revolving Tracking Extra Thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Centering II 180 no strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "vertical smoothness training popcorn small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "3D Switching",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "fuglaaXYShortstrafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "fuglaaXYZ Smooth Beta 2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "fuglaaXYZ Smooth Beta 2 Smaller & Slower",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "FuglaaXYZ Smooth Beta",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic No Blinks",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic No Blinks small ",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic No Blinks xsmall",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Controlsphere",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Extra Controlsphere",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Controlsphere TS",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "CowserTS",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "CowserTS speed",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1wall 6targets small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic Slower - 40%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic Slower - 50%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic Slower - 60%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "PGTI Voltaic Slower - 80%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 6Targets Small reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Track Smooth extra small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Pauer",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Unvincible Small Goated",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic XSmall",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot rAim Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Pauer Glider",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Voltaic AC 24 - Smoothbot Voltaic Reactive",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "6wall18targets small reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS rAim",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "RexStrafesCata Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Thinbot Plaza Raspberry Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "raspStrafes 360 Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "VSFSI Raspberry 65%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4t_pasu Raspberry v1 Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Rasperry Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air no UFO no SKYBOTS",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Midrange Long Strafes Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Close Long Strafes Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Overhead Jumps",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Oblique Tracking small no mag",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothsphere",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Extra SmoothSphere",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Thin Control Raspberry ",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "RaspStrafesCata Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Thinbot Plaza Raspberry Invincible v2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Flickerbot Raspberry",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "LDDH Slow",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Thin Gauntlet V2 Thinner",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn Gauntlet Raspberry",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn Goated Tracking Easy Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic no direction changes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Flicker Plaza rAim Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Close Fast Strafes Easy Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "apa3's Bounce House",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air Invincible Bounce House",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Stralroom FS Dodge",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w4ts reload 30% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Dodge Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Manwing Strafe Gallery V3",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B360TI Sparky Small Popcorn",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180TI Extra Small Sparky",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "fuglaab180t",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180TI Sparky",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Plaza High Ground Sparky",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "XY Tracking Dodge",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Paki Aim Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fortnite glider 360 invincible LG",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets 30% Smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Target Switching 360 Static Extra Thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tile Frenzy Flick 180",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pole long dodge extra thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control Hard",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Overhead Jumps Reversed",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

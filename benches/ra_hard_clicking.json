@@ -1,0 +1,38 @@
+{
+	"playlistName": "rA_hard_clicking",
+	"scenarioList": [
+		{
+			"scenarioName": "1w4ts reload",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Wide Wall 3 Target",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTS Static Click rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "1w6t NQS Raspberry",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce 180 rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu Reload Goated",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Popcorn Goated rAim",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "ToonsClick rAim",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}
