@@ -1,0 +1,38 @@
+{
+	"playlistName": "FN Sharpen - Warmup",
+	"scenarioList": [
+		{
+			"scenarioName": "Air Voltaic Invincible 3",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Smoothbot Pauer",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "B180TI Small Sparky",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 360 Track",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Long Strafes Thin Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "kinTS Voltaic Easy",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

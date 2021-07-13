@@ -1,0 +1,34 @@
+{
+	"playlistName": "FN Sharpen - AR Tags ",
+	"scenarioList": [
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Glider Fallen",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "FN TapTrack Fallen",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Leapcorn",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "pasu small reload",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "ww6ts Revolving fixed",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

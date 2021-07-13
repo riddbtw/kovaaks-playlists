@@ -1,0 +1,38 @@
+{
+	"playlistName": "FN Sharpen - CloseMid Tracking",
+	"scenarioList": [
+		{
+			"scenarioName": "Air Voltaic Invincible 3",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Pauer",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Vertical P+",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Extra Smoothsphere Pure",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Close Long Strafes Thin Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Arm Turning Training 60s",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 360 Track",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "B180T Voltaic Easy",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

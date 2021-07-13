@@ -1,0 +1,82 @@
+{
+	"playlistName": "ridd - smooth",
+	"scenarioList": [
+		{
+			"scenarioName": "Smoothbot Pauer Glider",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "smoothbot pauer glider 30% smaller slower",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Thin Gauntlet Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Raspberry's Smoothbot TS Trainer",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Gauntlet Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Smoothbot Raspberry V2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Extra SmoothSphere",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VSS Thin Aiming Long Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Smooth Fixed",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch Smooth",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "fuglaaXYZ Smooth Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Revolving Tracking Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "B360TI Voltaic Smaller",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Smooth extra small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "FuglaaXYZ Voltaic No Blinks xsmall",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VSS Smooth Thin Strafes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Track Invincible v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "tamtargetswitch control hard small",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

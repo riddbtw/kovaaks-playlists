@@ -1,0 +1,34 @@
+{
+	"playlistName": "FN Sharpen - Shotgun Precision",
+	"scenarioList": [
+		{
+			"scenarioName": "5 Sphere Hipfire Small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "psalmflick small",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "psalmflick Strafing ESSR",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Bounce 360 Click",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Fast Strafes Shotgun Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Fast Strafes Easy Invincible Shotgun Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Voltaic Easy",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

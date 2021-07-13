@@ -1,0 +1,38 @@
+{
+	"playlistName": "FN Sharpen - Shotgun Speed & Mechanics",
+	"scenarioList": [
+		{
+			"scenarioName": "Frenzy Flick",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Wide Static Fallen",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Aiming Ball",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Jumbo",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Jumbo [Low TTK]",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Bounce 360 Click Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "psalmflick Strafing SR",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Psalmflick Strafing Reload",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}
