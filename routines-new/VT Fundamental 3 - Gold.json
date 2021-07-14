@@ -1,0 +1,98 @@
+{
+	"playlistName": "VT Fundamental 3 - Gold",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Gauntlet Gold",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "PGTI Voltaic Gold",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "B180TI Voltaic ",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothbot Voltaic Easy",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Kindaclose Fast Strafes",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Close Fast Strafes Easy Invincible",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic AIO Easy",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Popcorn Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180 Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bp Gold",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww3t Voltaic smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4t shrink",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180T Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS Voltaic Easy",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

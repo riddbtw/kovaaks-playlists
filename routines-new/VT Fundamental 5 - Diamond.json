@@ -1,0 +1,98 @@
+{
+	"playlistName": "VT Fundamental 5 - Diamond",
+	"scenarioList": [
+		{
+			"scenarioName": "Centering II 180",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "PGTI Voltaic Slower - 80%",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "B360TI Voltaic Smaller",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smoothsphere Diamond",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Controlsphere Diamond",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "VSS Close-Mid Long",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic AIO",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Voltaic Intermediate",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Popcorn Voltaic Intermediate",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180 Voltaic Intermediate",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bpes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets 30% Smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww2t voltaic 50% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts Voltaic 30% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B360T Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTargetSwitch 30% Smaller +2",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

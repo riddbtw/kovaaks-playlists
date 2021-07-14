@@ -1,0 +1,86 @@
+{
+	"playlistName": "VT Fundamental 0 - Iron",
+	"scenarioList": [
+		{
+			"scenarioName": "Centering 90 Easy+ No Strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Thin Aiming Long Iron",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Voltaic Far Long Strafes Very Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Voltaic Close Long Strafes Very Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "GP Far Long Strafes Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "GP Close Long Strafes Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Kindaclose Fast Strafes Iron",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "B90TI Iron",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smoothbot Iron",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Voltaic Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B90 Voltaic Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bp Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tile Spheres 90 Strafing",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball ww3t Voltaic Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets TE",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2t TE Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B90T Voltaic Easy Very Slow",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS Voltaic Iron",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
