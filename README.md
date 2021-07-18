@@ -1,5 +1,13 @@
 # kovaaks-playlists
-Collection of playlists for Kovaaks
+Collection of playlists for Kovaaks.  These are all the playlists that I've found through discord, twitter, youtube, and other avenues all consolidated into one place.  
+
+These playlists are divided into the following groups:
+* Benches - these are the Revosect and Voltaic benchmarks
+* Beginner routines - routines specifically for beginners
+* Game-specific - routines meant to help with specific games
+* Legacy - older routines (1+ years old) for reference
+* New - anything that doesn't fit into the other categories
+* Recommended - the original list of routines I recommended from my [Youtube video](https://youtu.be/5D5au2nWTnA)
 
 # how to use these playlists
 1. Grab the latest release from the [Releases page](https://github.com/riddbtw/kovaaks-plos/releases) and unzip the files
