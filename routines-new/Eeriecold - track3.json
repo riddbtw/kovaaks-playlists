@@ -1,0 +1,62 @@
+{
+	"playlistName": "Eeriecold - track3",
+	"scenarioList": [
+		{
+			"scenarioName": "TrackStop",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Revolving Tracking Thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "fuglaaXYKillimanjaro V2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "fuglaaXYReactivity V2 Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu track but bot has adhd",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1wall5targets pasu track invincible small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "LDDH V2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Unpredictable Strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "idktbh",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Unvincible Small Goated",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Track Smooth extra small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "VSS Close-Mid Long 30% Smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
