@@ -1,0 +1,98 @@
+{
+	"playlistName": "VT Fundamental 4 - Platinum",
+	"scenarioList": [
+		{
+			"scenarioName": "Thin Gauntlet V2",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "B360TI Voltaic",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothsphere Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Controlsphere Platinum",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic AIO Easy",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Voltaic Intermediate",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Popcorn Voltaic Intermediate",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180 Voltaic Intermediate",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bp Platinum",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Wide Wall 4 Targets Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww3t Voltaic 50% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww4t Varied",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4 Targets Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts_truste Raspberry",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload smallflicks",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B360T Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic 360 Easy",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS Voltaic",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

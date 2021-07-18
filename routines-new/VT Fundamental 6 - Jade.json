@@ -1,0 +1,98 @@
+{
+	"playlistName": "VT Fundamental 6 - Jade",
+	"scenarioList": [
+		{
+			"scenarioName": "[MCA-5] Auto Balanced Long Strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn Gauntlet Raspberry",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothsphere",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Controlsphere",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Flicker Plaza",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Midrange Short Strafes Invincible Raspberry",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air CELESTIAL",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic Invincible 7",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Voltaic 360",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Popcorn Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180 Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bpes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4t_vbr_pokeball Raspberry",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 2 Targets Extra Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww2t voltaic 50% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2tes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts Voltaic 50% smaller",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B360T Voltaic Jade",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic Smooth",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic 360",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS Viscose Varied",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
