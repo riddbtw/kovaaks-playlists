@@ -1,0 +1,42 @@
+{
+	"playlistName": "Toons - Fortnite - Assault Rifle",
+	"scenarioList": [
+		{
+			"scenarioName": "Air",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Angelic Invincible 2",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Smoothbot Pauer Glider",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fortnite Gliders 360 HeadsOnly",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking Small Invincible Fixed",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air Angelic Invincible 4",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Highground Track 180",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fountain Tracking",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Jump Pad Gliders Better",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

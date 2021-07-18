@@ -1,0 +1,42 @@
+{
+	"playlistName": "Toons - Fortnite - Shotgun v3",
+	"scenarioList": [
+		{
+			"scenarioName": "psalmflick TPS Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTargetSG TPS Crouch",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTargetSwitch 360",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pasu Dodge",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Overhead Jumps Click Tac FN",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "hopTS Click Raspberry",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fortnite Combat Vertical",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fountain ClickTiming",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Fast Pump Flick",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}
