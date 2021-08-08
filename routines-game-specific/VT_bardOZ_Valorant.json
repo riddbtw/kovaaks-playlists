@@ -1,0 +1,50 @@
+{
+	"playlistName": "bardOZ Valorant",
+	"scenarioList": [
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w2ts",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pokeball Auto ww6t",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "5 Sphere Hipfire Extra Small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "6wall18targets small reload",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400%",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "centering I",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Small",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Reflex Micro++ flick reload small",
+			"playCount": 4
+		}
+	],
+	"isFavorite": true
+}

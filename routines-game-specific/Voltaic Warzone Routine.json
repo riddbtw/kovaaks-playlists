@@ -1,0 +1,106 @@
+{
+	"playlistName": "Voltaic Warzone Routine",
+	"scenarioList": [
+		{
+			"scenarioName": "tamTargetSwitch Smooth",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "tamTargetSwitch Control",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Controlsphere",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "KinTargetswitch Small No Reload 300%hp",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "canTS",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "canTS Smooth Hard",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "voxTargetSwitch Smooth",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "fuglaab180t",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Bounce 360T Sparky",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "psalmTrack Voltaic",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Glider GOATED",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "FN Gliders 360 HS Invincible",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Close Long Strafes Warzone",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Kindaclose Mid Strafes HS",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Kindaclose Mid Strafes Humanoid HS",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Fountain Tracking - Easy",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Voltaic Chicken",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Tamspeed 2bps",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "B180 Voltaic Chicken",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Small 60s",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Reflex Poke-Micro++ Regenerating Goated",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "1w2ts reload smallflicks",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Floating Heads Timing 400%",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Reactive Clicking Hard",
+			"playCount": 4
+		}
+	],
+	"isFavorite": false
+}

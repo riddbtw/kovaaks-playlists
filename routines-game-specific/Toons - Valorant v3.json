@@ -1,0 +1,42 @@
+{
+	"playlistName": "Toons - Valorant v3",
+	"scenarioList": [
+		{
+			"scenarioName": "Spherical Centering",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w2ts reload smallflicks",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTargetSwitch 360 Small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pole long dodge extra thin",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "VoxTargetSwitch Click Heads",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTargetSwitch Small No Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Devtargetswitch click 360 small",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Wide Wall 4Targets Small Reload",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Kroader Flick Small",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

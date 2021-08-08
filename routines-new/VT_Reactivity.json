@@ -1,0 +1,34 @@
+{
+	"playlistName": "VT Reactivity",
+	"scenarioList": [
+		{
+			"scenarioName": "VSS GP9",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Close Fast Strafes Invincible",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air Voltaic",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Vertical Fast Strafes",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air Angelic 3478",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Air UFO Hard Invincible",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

@@ -1,0 +1,46 @@
+{
+	"playlistName": "VT_Strafe_Tracking",
+	"scenarioList": [
+		{
+			"scenarioName": "Midrange Long Strafes V2",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Revolving Tracking",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pole Long Dodge",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Close LS Easy Dodge",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Cycle Strafes Long",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Circle Strafes Long Varied Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Circle Strafes Fast",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "3D Mid Dodge",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Angelic 4 Voltaic Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Amphi LG 1v1 Easy",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}

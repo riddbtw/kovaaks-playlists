@@ -1,0 +1,82 @@
+{
+	"playlistName": "VT Fundamental 1 - Bronze",
+	"scenarioList": [
+		{
+			"scenarioName": "Centering 90 Easy No Strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Thin Aiming Long Bronze",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Voltaic Far Long Strafes Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Voltaic Close Long Strafes Easy",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "gp far long strafes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "gp close long strafes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Kindaclose Fast Strafes Bronze",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "PGTI Vertical Bronze",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothbot Bronze",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Voltaic Bronze",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B90 Voltaic Bronze",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bp Bronze",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball ww3t Voltaic Iron",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww3t Voltaic Larger",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts 30% larger",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B90T Voltaic Easy Slow",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic Bronze",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic Bronze",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic Bronze",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

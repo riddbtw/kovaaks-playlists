@@ -1,0 +1,26 @@
+{
+	"playlistName": "VT_Speed",
+	"scenarioList": [
+		{
+			"scenarioName": "patCircleSwitch small NR Static",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch Large",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTS Viscose Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patCircleSwitch NR Static",
+			"playCount": 1
+		}
+	],
+	"isFavorite": false
+}

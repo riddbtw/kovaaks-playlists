@@ -2,11 +2,11 @@
 	"playlistName": "VT_Static_Advanced_1by1",
 	"scenarioList": [
 		{
-			"scenarioName": "Pokeball Auto 1w4t Varied",
+			"scenarioName": "Pokeball 1w4t shrink",
 			"playCount": 1
 		},
 		{
-			"scenarioName": "1w4t Varied",
+			"scenarioName": "1w4t shrink",
 			"playCount": 1
 		},
 		{
@@ -66,7 +66,7 @@
 			"playCount": 1
 		},
 		{
-			"scenarioName": "10 Sphere Hipfire Extra Small",
+			"scenarioName": "5 Sphere Hipfire Extra Small",
 			"playCount": 1
 		},
 		{

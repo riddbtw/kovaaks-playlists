@@ -1,0 +1,82 @@
+{
+	"playlistName": "VT Fundamental 2 - Silver",
+	"scenarioList": [
+		{
+			"scenarioName": "Centering I 90 no strafes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Voltaic Easy Invincible 2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Voltaic Easy Invincible 1",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Easy Invincible 2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Ground Plaza Voltaic Easy Invincible 1",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Kindaclose Fast Strafes Silver",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "PGTI Vertical Silver",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Smoothbot Silver",
+			"playCount": 4
+		},
+		{
+			"scenarioName": "Pasu Voltaic Silver ",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180 Voltaic Silver",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Popcorn Voltaic Silver",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Tamspeed 2bp Silver",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "Pokeball 1w4t shrink",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "ww3t Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "1w4ts Voltaic",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "B180T Voltaic Silver",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "kinTS Voltaic Silver",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "patTS Voltaic Silver",
+			"playCount": 5
+		},
+		{
+			"scenarioName": "voxTS Voltaic Silver",
+			"playCount": 5
+		}
+	],
+	"isFavorite": false
+}

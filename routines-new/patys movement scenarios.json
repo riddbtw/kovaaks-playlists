@@ -1,0 +1,150 @@
+{
+	"playlistName": "patys movement scenarios",
+	"scenarioList": [
+		{
+			"scenarioName": "lgc3 Reborn Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied OW",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Amphi LG 1v1 Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Amphi LG 1v1",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close FS Easy Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close FS Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Midrange FS Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Stralroom FS Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Stralroom FS Dodge Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "XY Tracking Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "XY Tracking Dodge Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Anti-Mirror Long Strafes",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Anti-Mirror LS Gallery",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Anti-Mirror Long Strafes 360",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close LS Easy Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close LS Easy Dodge Low Ground",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close LS Easy Dodge High Ground",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close FS Easy Dodge Low Ground",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close FS Easy Dodge High Ground",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Cata IC Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Rexstrafes Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "T1 Drop Punish Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pole Long Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pole Med Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pole Short Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Horizontal Bounce Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Rhombus Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Vertical Bounce Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Rhombus Vertical Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Ball Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "wifeTS (wifeswitch) Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTargetClick Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "patTargetClick no bodies Dodge",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}
