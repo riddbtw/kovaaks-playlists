@@ -1,0 +1,62 @@
+{
+	"playlistName": "PURE BENCHMARKS",
+	"scenarioList": [
+		{
+			"scenarioName": "Glider Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Bounce Tracking Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Air Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Ground Plaza Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Horizontal Clicking Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Leapcorn Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Static Clicking Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pokeball Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pasu Switch Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "kinTS Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "voxTS Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Static Switching Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Pistol Strafe Gallery Pure",
+			"playCount": 10
+		},
+		{
+			"scenarioName": "Strafe Tracking Pure",
+			"playCount": 10
+		}
+	],
+	"isFavorite": true
+}
