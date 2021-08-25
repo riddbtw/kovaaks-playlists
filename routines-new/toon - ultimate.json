@@ -1,0 +1,34 @@
+{
+	"playlistName": "toon - ultimate",
+	"scenarioList": [
+		{
+			"scenarioName": "Smoothbot Pauer Glider",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Revolving Tracking Thin",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Revolving Tracking Strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "SmoothBot Invincible Goated",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "tamTargetSwitch Smooth Hard",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Invincible Bounce House HARD",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}

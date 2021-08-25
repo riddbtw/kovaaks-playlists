@@ -1,0 +1,38 @@
+{
+	"playlistName": "toon - headshot",
+	"scenarioList": [
+		{
+			"scenarioName": "Popcorn Voltaic No Reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Angelic Invincible 2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "B180 Voltaic Small v2",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "PGTI Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Fountain Tracking",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Fortnite Gliders 360",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "pasu voltaic small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Air Angelic Bot 5 Invincible",
+			"playCount": 3
+		}
+	],
+	"isFavorite": false
+}
