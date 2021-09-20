@@ -1,0 +1,50 @@
+{
+	"playlistName": "LapAim Specific Mirroring and others Beta",
+	"scenarioList": [
+		{
+			"scenarioName": "Close Mid Strafes Dodge Mirror",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Mid Strafes Dodge High Ground",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Close Mid Strafes Dodge Anti-Mirror",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Amphi LG 1v1 Easy Invincible",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "lgc3 Reborn Varied Thin",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "supra distance",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Rhombus Vertical Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Arc Dodge",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Hyperscape VT Dodge Easy",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "XY Tracking Dodge Hard",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pasu Dodge Easy",
+			"playCount": 1
+		}
+	],
+	"isFavorite": true
+}

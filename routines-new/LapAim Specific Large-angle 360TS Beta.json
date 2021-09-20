@@ -1,0 +1,38 @@
+{
+	"playlistName": "LapAim Specific Large-angle 360TS Beta",
+	"scenarioList": [
+		{
+			"scenarioName": "Bounce 180 Tracking Goated 3bot",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "xenTargetSwitch speed Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "TS",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "CowserTS speed",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTargetSwitch 250%",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "CowserTS kin360",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "kinTargetSwitch 360 No Reload",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "6wall14targets_Pokeball",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

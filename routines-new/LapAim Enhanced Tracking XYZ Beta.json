@@ -1,0 +1,30 @@
+{
+	"playlistName": "LapAim Enhanced Tracking XYZ Beta",
+	"scenarioList": [
+		{
+			"scenarioName": "Air NUNS AIO Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Ground Plaza Sparky V3",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Smoothbot rAim",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "fuglaaXYZ Smooth Beta 2 Smaller & Slower",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "fuglaaXYZ Smooth Beta 2",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Air Angelic",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

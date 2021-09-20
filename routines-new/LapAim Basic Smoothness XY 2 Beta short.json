@@ -1,0 +1,18 @@
+{
+	"playlistName": "LapAim Basic Smoothness XY 2 Beta short",
+	"scenarioList": [
+		{
+			"scenarioName": "Vert Smooth Lapu4",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pasu Track Smooth small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Smooth Track Vert s",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

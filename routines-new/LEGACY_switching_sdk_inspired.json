@@ -1,0 +1,47 @@
+{
+	"playlistName": "LEGACY switching (sdk inspired)",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenarioName": "patTS NR",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "voxTargetSwitch",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "psalmTS Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Tile Frenzy 360 Strafing 400Prct Track",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "devTS Goated NR",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "kinTS NR",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Smoothbot TS Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180 Tracking",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "xenTargetSwitch",
+			"playCount": 3
+		}
+	],
+	"description": "",
+	"hasEdited": true,
+	"shareCode": ""
+}

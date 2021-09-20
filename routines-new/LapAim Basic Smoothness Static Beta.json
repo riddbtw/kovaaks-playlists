@@ -1,0 +1,38 @@
+{
+	"playlistName": "LapAim Basic Smoothness Static Beta",
+	"scenarioList": [
+		{
+			"scenarioName": "Pokeball 1w4ts 30%",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pokeball Auto ww6ts",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6ts (25% smaller diameter)",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1w6ts reload v2",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pressure Aiming - 8 Targets",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Pokeball Wide 4t 30% smaller",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pokeball Auto ww6t",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "ww3t Voltaic",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

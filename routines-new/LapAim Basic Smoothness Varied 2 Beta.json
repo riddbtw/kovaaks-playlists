@@ -1,0 +1,26 @@
+{
+	"playlistName": "LapAim Basic Smoothness Varied 2 Beta",
+	"scenarioList": [
+		{
+			"scenarioName": "B180TI Small Sparky",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "tamTS smooth Lapu4",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Controlsphere rAim Easy",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Smoothbot rAim",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "PGTI Voltaic Easy",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

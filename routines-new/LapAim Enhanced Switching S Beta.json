@@ -1,0 +1,42 @@
+{
+	"playlistName": "LapAim Enhanced Switching S Beta",
+	"scenarioList": [
+		{
+			"scenarioName": "B180T Voltaic Speed Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "xenTargetSwitch small speed ",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "devTS Goated NR Static Medium",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "VoxTS static improved Medium",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "voxTS Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "patTS Voltaic 90 v2",
+			"playCount": 1
+		},
+		{
+			"scenarioName": "Controlsphere TS VT Small",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "B180T Voltaic",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball wide 4t 20% smaller",
+			"playCount": 2
+		}
+	],
+	"isFavorite": true
+}

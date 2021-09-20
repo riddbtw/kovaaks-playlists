@@ -1,0 +1,83 @@
+{
+	"playlistName": "LEGACY clicking (sdk inspired)",
+	"playlistId": 0,
+	"authorSteamId": "",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenarioName": "1wall5targets_pasu Reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "pasu small reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Popcorn Sparky",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Tile Frenzy - Strafing - 01",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180 Low Ground",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Bounce 180 High Ground",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Skeet Clicking",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall 6targets small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w2ts reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "ww6t reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "wide wall 2targets small nodelay",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto Extra Small",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "fuglaaPressure NoReload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Pressure Aiming 7 Shortened",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Reflex Flick - Hard Reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w6ts Low Ground reload",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w6ts High Ground reload",
+			"playCount": 3
+		}
+	],
+	"description": "",
+	"hasEdited": true,
+	"shareCode": ""
+}
