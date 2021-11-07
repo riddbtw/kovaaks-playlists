@@ -1,0 +1,43 @@
+{
+	"playlistName": "Lapu4 - Apex-aware tracking v2",
+	"playlistId": 648,
+	"authorSteamId": "76561198415893190",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenarioName": "Smooth Thin Strafes",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "Flickerbot Raspberry",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "VSS Smooth Thin Strafes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "tamTS control Lapu4",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "supra distance",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "VSS Close-Mid Long slightly high ground",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Smooth Thin Strafes Raspberry slow HS",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Strafe Tracking Pure lap",
+			"playCount": 3
+		}
+	],
+	"description": "",
+	"hasEdited": false,
+	"shareCode": "KovaaKsExitfraggingAlmightyCapture"
+}

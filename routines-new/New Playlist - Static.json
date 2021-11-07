@@ -1,0 +1,39 @@
+{
+	"playlistName": "New Playlist - Static",
+	"playlistId": 612,
+	"authorSteamId": "76561198415893190",
+	"authorName": "",
+	"scenarioList": [
+		{
+			"scenarioName": "pokeball_1w20tes",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w8ts",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "Pokeball Frenzy Auto 1w6ts (25% smaller diameter)",
+			"playCount": 2
+		},
+		{
+			"scenarioName": "1wall 5targets small Raspberry 30% smaller",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w8ts Reload 30% smaller",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1wall 5targets small Raspberry",
+			"playCount": 3
+		},
+		{
+			"scenarioName": "1w6ts reload v2",
+			"playCount": 3
+		}
+	],
+	"description": "",
+	"hasEdited": false,
+	"shareCode": "KovaaKsBindingSpringgreenLostsector"
+}
