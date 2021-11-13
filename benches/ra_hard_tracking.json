@@ -1,5 +1,8 @@
 {
 	"playlistName": "rA_hard_tracking",
+	"playlistId": 21893,
+	"authorSteamId": "76561197963849432",
+	"authorName": "",
 	"scenarioList": [
 		{
 			"scenarioName": "PGTI rAim",
@@ -34,5 +37,7 @@
 			"playCount": 10
 		}
 	],
-	"isFavorite": true
+	"description": "",
+	"hasEdited": false,
+	"shareCode": "KovaaKsRaidingSlowHip"
 }

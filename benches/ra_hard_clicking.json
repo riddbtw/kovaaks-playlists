@@ -1,12 +1,11 @@
 {
 	"playlistName": "rA_hard_clicking",
+	"playlistId": 21891,
+	"authorSteamId": "76561197963849432",
+	"authorName": "",
 	"scenarioList": [
 		{
 			"scenarioName": "1w4ts reload",
-			"playCount": 10
-		},
-		{
-			"scenarioName": "Wide Wall 3 Target",
 			"playCount": 10
 		},
 		{
@@ -32,7 +31,13 @@
 		{
 			"scenarioName": "ToonsClick rAim",
 			"playCount": 10
+		},
+		{
+			"scenarioName": "Wide Wall 3 Targets",
+			"playCount": 10
 		}
 	],
-	"isFavorite": true
+	"description": "",
+	"hasEdited": false,
+	"shareCode": "KovaaKsPushingSlipperyBm"
 }

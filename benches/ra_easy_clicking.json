@@ -1,12 +1,15 @@
 {
 	"playlistName": "rA_easy_clicking",
+	"playlistId": 21888,
+	"authorSteamId": "76561197963849432",
+	"authorName": "",
 	"scenarioList": [
 		{
 			"scenarioName": "1w4ts reload",
 			"playCount": 10
 		},
 		{
-			"scenarioName": "Wide Wall 3 Target",
+			"scenarioName": "Wide Wall 3 Targets",
 			"playCount": 10
 		},
 		{
@@ -34,5 +37,7 @@
 			"playCount": 10
 		}
 	],
-	"isFavorite": true
+	"description": "",
+	"hasEdited": false,
+	"shareCode": "KovaaKsPlunderingShinyStrike"
 }

@@ -1,8 +1,11 @@
 {
 	"playlistName": "rA_easy_switching",
+	"playlistId": 21889,
+	"authorSteamId": "76561197963849432",
+	"authorName": "",
 	"scenarioList": [
 		{
-			"scenarioName": "patCircleSwitch NR",
+			"scenarioName": "PatCircleSwitch rAim",
 			"playCount": 10
 		},
 		{
@@ -34,5 +37,7 @@
 			"playCount": 10
 		}
 	],
-	"isFavorite": true
+	"description": "",
+	"hasEdited": false,
+	"shareCode": "KovaaKsPoppingSilverLoadout"
 }
