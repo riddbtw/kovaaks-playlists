@@ -1,4 +1,5 @@
 # Note - this site will slowly be deprecated as sharecodes become the new method of sharing playlists
+Go >> [here](https://github.com/officialpure/Resources/blob/main/Sharecodes.md) << for the current list of public sharecodes!
 
 # kovaaks-playlists
 Collection of playlists for Kovaaks.  These are all the playlists that I've found through discord, twitter, youtube, and other avenues all consolidated into one place.  
